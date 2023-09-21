@@ -1,0 +1,26 @@
+.col {
+  display: flex;
+  flex-direction: column;
+}
+.full-size {
+  width: 100%;
+  height: 100%;
+}
+.bg-primary {
+  background-color: #ff424e;
+}
+.bg-secondary {
+  background-color: #0f76e5;
+}
+.bg-gray {
+  background-color: #8f8f8f;
+}
+.color-primary {
+  color: #ff424e;
+}
+.color-secondary {
+  color: #0f76e5;
+}
+.color-gray {
+  color: #eef1f2;
+}
